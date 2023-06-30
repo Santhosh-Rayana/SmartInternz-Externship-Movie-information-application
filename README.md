@@ -1,9 +1,9 @@
 # SmartInternz-Externship-Movie-information-application
-
-Team Members:
-Rayana Sri Sai Santhosh - 20BIT0185
-Suyash
-Siddhesh
+<br>
+Team Members:<br>
+Rayana Sri Sai Santhosh - 20BIT0185<br>
+Suyash<br>
+Siddhesh<br>
 
 
 

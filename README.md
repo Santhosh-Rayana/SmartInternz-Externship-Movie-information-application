@@ -6,8 +6,8 @@ Suyash Patil - 20BIT0257<br>
 Siddhesh - <br>
 
 <br>
-The report document is present in the "Project Report - Movie Information System" folder<br>
-The Assignments are present in the "Assignments" folder.<br>
+The report document is present in the "Project Report" folder<br>
+The Assignments are present in the "Assignments - Registration Numbers" folders.<br>
 The demonstration video is uploaded as "Demonstration Video"
 
 
